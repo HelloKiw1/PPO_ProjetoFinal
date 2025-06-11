@@ -1,5 +1,4 @@
-
-# 🧠 Projeto Final de POO - Web Services com Spring Boot
+# Projeto Final de POO - Web Services com Spring Boot
 
 Este repositório contém o desenvolvimento do projeto final da disciplina de **Programação Orientada a Objetos (POO)**. O objetivo é construir um sistema de Web Services utilizando **Spring Boot**, **JPA** e **Hibernate**, com banco de dados H2 para testes.
 
@@ -9,13 +8,13 @@ Este repositório contém o desenvolvimento do projeto final da disciplina de **
 
 ## 🎯 Objetivos do Projeto
 
-- ✅ Criar um projeto Java com Spring Boot  
-- ✅ Implementar o modelo de domínio  
-- ✅ Estruturar as camadas lógicas: `Resource`, `Service`, `Repository`  
-- ✅ Configurar banco de dados de teste (H2)  
-- ✅ Popular o banco de dados com dados iniciais  
-- ✅ Implementar as operações CRUD (Create, Retrieve, Update, Delete)  
-- ✅ Adicionar tratamento de exceções
+-  Criar um projeto Java com Spring Boot  
+-  Implementar o modelo de domínio  
+-  Estruturar as camadas lógicas: `Resource`, `Service`, `Repository`  
+-  Configurar banco de dados de teste (H2)  
+-  Popular o banco de dados com dados iniciais  
+-  Implementar as operações CRUD (Create, Retrieve, Update, Delete)  
+-  Adicionar tratamento de exceções
 
 ---
 
